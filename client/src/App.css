@@ -1,0 +1,12 @@
+.name-input {
+  border: 1px soild #828282;
+  outline: none;
+  padding: 5px;
+  margin-right: 5px;
+}
+
+.team-name {
+  font-size: 15px;
+  font-weight: 700;
+  color: #424242;
+}
